@@ -1,4 +1,4 @@
-# FOOD_ORDERING_AP
+# FOOD_ORDERING_APP
 Shris Ktchen Food Ordering App - Final Project in Python 
 ''' Default "Admin details":
         "User Name": "Shriskitchen",
